@@ -25,8 +25,8 @@ export default function Navbar(){
                             <div className='z-50 xl:right-[4.5%] right-0 top-10 absolute py-5 '>
                             <div className="text-base list-none rounded-lg shadow bg-slate-800" id="user-dropdown">
                                 <div className="px-4 py-3">
-                                    <span className="block text-sm text-white">M. Rafi Insan Fillah</span>
-                                    <span className="block text-sm  truncate text-gray-400">Informatics Student</span>
+                                    <span className="block text-sm text-white">BlackOps Team</span>
+                                    <span className="block text-sm  truncate text-gray-400">System Information Student</span>
                                 </div>
                                 <ul className="py-2" aria-labelledby="user-menu-button">
                                     <li>
